@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1495702979 source:c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe edo\edo\edo_funciones.c
+	"EDO_header.h"
+
+1495700730 c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe edo\edo\edo_header.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1495703237 source:c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe edo\edo\edo_main.c
+	"EDO_header.h"
+
+1495722307 source:c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe edo\practica edo\edo_main.c
+	"EDO_header.h"
+
+1495700730 c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe edo\practica edo\edo_header.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1495722256 source:c:\users\adrià\documents\cole\curs 2016-2017\mètodes numèrics i\informe edo\practica edo\edo_funciones.c
+	"EDO_header.h"
+
+1495729197 source:c:\users\lafm\desktop\programas\practica edo\edo_funciones.c
+	"EDO_header.h"
+
+1495686734 c:\users\lafm\desktop\programas\practica edo\edo_header.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1495728561 source:c:\users\lafm\desktop\programas\practica edo\edo_main.c
+	"EDO_header.h"
+
+1496429857 source:c:\users\adrià\desktop\practica edo-20170602t172137z-001\practica edo\edo_funciones.c
+	"EDO_header.h"
+
+1496363770 c:\users\adrià\desktop\practica edo-20170602t172137z-001\practica edo\edo_header.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1496429137 source:c:\users\adrià\desktop\practica edo-20170602t172137z-001\practica edo\edo_main.c
+	"EDO_header.h"
+
+1603573058 source:c:\users\luisillo\desktop\luis\samples git\farfan_fuentealba_medeiros\edo_funciones.c
+	"New_Edo_Header.h"
+
+1496556610 c:\users\luisillo\desktop\luis\samples git\farfan_fuentealba_medeiros\edo_header.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1603573093 source:c:\users\luisillo\desktop\luis\samples git\farfan_fuentealba_medeiros\edo_main.c
+	"New_Edo_Header.h"
+
+1603573058 c:\users\luisillo\desktop\luis\samples git\farfan_fuentealba_medeiros\new_edo_header.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1603569458 source:c:\users\luisillo\desktop\luis\samples git\edos\edo_funciones.c
+	"New_Edo_Header.h"
+
+1603569458 c:\users\luisillo\desktop\luis\samples git\edos\new_edo_header.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1603569493 source:c:\users\luisillo\desktop\luis\samples git\edos\edo_main.c
+	"New_Edo_Header.h"
+
